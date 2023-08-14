@@ -5,7 +5,9 @@ In this repository , you'll find MernStack road map , This repository will alway
 
 <details>
 
-  <summary>HTML & CSS</summary>
+<details>
+
+   <summary>HTML & CSS</summary>
   
   📹 [ HTML & CSS - ITI ](https://maharatech.gov.eg/course/view.php?id=36)
   
@@ -15,6 +17,11 @@ In this repository , you'll find MernStack road map , This repository will alway
 
   📹 [ CSS - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
+</details>
+
+
+  <details>
+
   <summary>JavaScript</summary>
   
  📹 [ JavaScript - ITI ](https://maharatech.gov.eg/mod/hvp/view.php?id=7228&forceview=1)
@@ -23,11 +30,13 @@ In this repository , you'll find MernStack road map , This repository will alway
 
   📹 [ JavaScript- Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-  📹 [ CSS - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
   <summary>JavaScript projects</summary>
 
   📹 [ JavaScript- Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
+
+    
+  </details>
   
 </details>
 
