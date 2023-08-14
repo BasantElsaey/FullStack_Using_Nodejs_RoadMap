@@ -5,8 +5,6 @@ In this repository , you'll find MernStack road map , This repository will alway
 
 <details>
 
-<details>
-
    <summary>HTML & CSS</summary>
   
   📹 [ HTML & CSS - ITI ](https://maharatech.gov.eg/course/view.php?id=36)
@@ -38,7 +36,7 @@ In this repository , you'll find MernStack road map , This repository will alway
     
   </details>
   
-</details>
+
 
 ## ES6 ITI
 
