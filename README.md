@@ -15,39 +15,39 @@ In this repository , you'll find MernStack road map , This repository will alway
 
   📹 [ CSS - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
+  <summary>JavaScript</summary>
+  
+ 📹 [ JavaScript - ITI ](https://maharatech.gov.eg/mod/hvp/view.php?id=7228&forceview=1)
+  
+  OR 
+
+  📹 [ JavaScript- Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+  📹 [ CSS - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+
+  <summary>JavaScript projects</summary>
+
+  📹 [ JavaScript- Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
+  
 </details>
-
-## JavaScript ITI
-
-https://maharatech.gov.eg/mod/hvp/view.php?id=7228&forceview=1
-
-or 
-
-## JavaScript from Elzero 
-
-https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
-
-## Projects of Javascript 
-
-https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT
 
 ## ES6 ITI
 
-https://maharatech.gov.eg/course/view.php?id=791
+ 📹 [ ES6 - ITI ](https://maharatech.gov.eg/course/view.php?id=791)
 
-## ES6 from Elzero 
+ OR 
 
-https://youtu.be/DcyOVddJ62E](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M
+ 📹 [ ES6 - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
+
 
 ## Typescript ITI
 
-https://maharatech.gov.eg/course/view.php?id=976
+📹 [Typescript - ITI ](https://maharatech.gov.eg/course/view.php?id=976)
 
-or 
+ OR 
 
-## Typescript from Elzero 
+📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
 
-https://youtu.be/yUndnE-2osg](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ
 
 ## React 
 
