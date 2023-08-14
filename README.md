@@ -13,11 +13,11 @@ or
 
 HTML 
 
-https://youtu.be/6QAELgirvjs
+https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
 
 CSS
 
-https://youtu.be/X1ulCwyhCVM
+https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe
 
 # JavaScript ITI
 
@@ -27,11 +27,11 @@ or
 
 # JavaScript from Elzero 
 
-https://youtu.be/GM6dQBmc-Xg
+https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
 
 # Projects of Javascript 
 
-https://youtu.be/AeXkyj4mXms
+https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT
 
 # ES6 ITI
 
@@ -39,7 +39,7 @@ https://maharatech.gov.eg/course/view.php?id=791
 
 # ES6 from Elzero 
 
-https://youtu.be/DcyOVddJ62E
+https://youtu.be/DcyOVddJ62E](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M
 
 # Typescript ITI
 
@@ -49,7 +49,7 @@ or
 
 # Typescript from Elzero 
 
-https://youtu.be/yUndnE-2osg
+https://youtu.be/yUndnE-2osg](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ
 
 # React 
 
