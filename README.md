@@ -41,7 +41,7 @@ https://maharatech.gov.eg/course/view.php?id=791
 
 https://youtu.be/DcyOVddJ62E
 
-# Typescript
+# Typescript ITI
 
 https://maharatech.gov.eg/course/view.php?id=976
 
