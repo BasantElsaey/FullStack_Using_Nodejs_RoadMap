@@ -38,7 +38,9 @@ In this repository , you'll find MernStack road map , This repository will alway
   
 
 
-## ES6 ITI
+## ES6 
+
+<details>
 
  📹 [ ES6 - ITI ](https://maharatech.gov.eg/course/view.php?id=791)
 
@@ -46,14 +48,21 @@ In this repository , you'll find MernStack road map , This repository will alway
 
  📹 [ ES6 - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
 
+</details>
+ 
 
-## Typescript ITI
+## Typescript 
 
-📹 [Typescript - ITI ](https://maharatech.gov.eg/course/view.php?id=976)
+<details>
 
- OR 
+   📹 [Typescript - ITI ](https://maharatech.gov.eg/course/view.php?id=976)
 
-📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+   OR 
+
+   📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+
+
+</details>
 
 
 ## React 
