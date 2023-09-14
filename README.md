@@ -43,8 +43,6 @@ ___
 
    [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
-    OR
-
    [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 
 </details>
@@ -53,19 +51,18 @@ ___
    
    <summary> Data Structures and Algorithms</summary>
 
-### Data Structure for C++ and Python
+## Data Structure for C++ and Python
 
-  [For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
-  [For Python](https://youtu.be/pkYVOmU3MgA)
-
-### Object Oriented Programming(OOP) for C++ and Python
-
-- [OOP C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+  [Data Structure For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
   
-- [OOP Python](https://youtu.be/A9kSngn7254)
-  
-OR
+  [Data Structure For Python](https://youtu.be/pkYVOmU3MgA)
 
+## Object Oriented Programming(OOP) for C++ and Python
+
+  [OOP For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+  
+  [OOP For Python](https://youtu.be/A9kSngn7254)
+    OR
   [OOP Python](https://youtu.be/Ej_02ICOIgs)
 
 </details>
