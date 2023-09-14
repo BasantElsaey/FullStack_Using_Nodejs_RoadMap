@@ -16,7 +16,7 @@ ___
 <details>
    <summary> Introduction to Computer Science </summary>
 
-## Introduction to Computer Science
+### Introduction to Computer Science
 
 - First of all you need to study programming lanaguage such as Python 
 
