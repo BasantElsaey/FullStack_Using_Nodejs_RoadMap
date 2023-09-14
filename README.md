@@ -3,7 +3,7 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 ## General Index:
 
-📹 [ Computer Science Basics ](#introduction-to-computer-science)
+📹 [ Computer Science Basics ](#Introduction-to-Computer-Science)
 
 📹 [Beginner](#beginner)
 
@@ -15,6 +15,7 @@ ___
 
 <details>
    <summary> Introduction to Computer Science </summary>
+
 
 ## Introduction to Computer Science
 
