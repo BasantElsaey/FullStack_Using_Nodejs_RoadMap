@@ -16,6 +16,7 @@ ___
 # Computer Science Basics
 
 <details>
+   <details>
    <summary> Introduction to Computer Science </summary>
 
 
@@ -122,8 +123,10 @@ OR
 
 📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
 
-</details> 
+   </details> 
 
+ </details>
+ 
 <details>
 
 # Front End Basics
