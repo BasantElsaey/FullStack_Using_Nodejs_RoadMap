@@ -87,7 +87,7 @@ ___
 
 📹 [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
 
-📹 [MySQL Database FreeCodeCamp]](https://www.youtube.com/watch?v=ER8oKX5myE0)
+📹 [MySQL Database FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
 
 
 OR
