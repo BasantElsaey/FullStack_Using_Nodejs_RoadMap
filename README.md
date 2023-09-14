@@ -96,11 +96,21 @@ OR
 
 📹 [DB-In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
 
+#### Books 
+
+📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+
 ## MongoDB Database
 
 ### Notes : 
 
  To study MongoDB course you have to study nodejs first 
+
+📹 [MongoDB Full Course 2023](https://youtu.be/8eJJe4Slnik)
+
+📹 [MongoDB Schema Design](https://youtu.be/leNCfU5SYR8?si=DyLYHKSfy5eiHvPR)
+
+OR
 
 📹 [MongoDB Crash Course](https://youtu.be/-56x56UppqQ?si=eY0SFUeaTlOfji6B)
 
@@ -108,10 +118,7 @@ OR
 
 📹 [MongoDB + Mongoose + Nodejs Crash Course](https://youtu.be/5QEwqX5U_2M?si=BrF6-Lf6UwqhOkNx)
 
-
 #### Books
-
-📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
 
 📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
 
