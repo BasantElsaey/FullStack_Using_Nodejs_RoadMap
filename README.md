@@ -5,7 +5,7 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 📹 [ Computer Science Basics ](#Computer-Science-Basics)
 
-📹 [Beginner](#beginner)
+📹 [Front-End Basics](#Front-End-Basics)
 
 📹 [Beginner & Intermediate Web Technologies](#beginner--intermediate-web-technologies)
 
@@ -126,7 +126,10 @@ OR
 
 <details>
 
+# Front End Basics
+
    <summary>Front End Basics</summary>
+   
 
    ## HTML & CSS & JavaScript & ES6
 
