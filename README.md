@@ -149,16 +149,16 @@ OR
 
 - Secondly , you have to take Angular Course
   
-  📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+   📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
   
    📹 [Angular - FreeCodeCamp](https://youtu.be/3qBXWUpoPHo)
 
    
-  ## React
+## React
 
    📹 [React - Codezon ](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
   
-   📹 [React- FreeCodeCamp]([https://youtu.be/3qBXWUpoPHo](https://youtu.be/u6gSSpfsoOQ))
+   📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
   
 
 </details>
