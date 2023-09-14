@@ -74,6 +74,49 @@ ___
 
 </details>
 
+
+<details>
+  <summary>Introduction to Databases</summary>
+  
+  
+## SQL Databases
+
+📹 [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+📹 [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+
+📹 [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+
+📹 [MySQL Database FreeCodeCamp]](https://www.youtube.com/watch?v=ER8oKX5myE0)
+
+
+OR
+
+📹 [DB-In Arabic](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+
+📹 [DB-In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
+
+## MongoDB Database
+
+### Notes : 
+
+ To study MongoDB course you have to study nodejs first 
+
+📹 [MongoDB Crash Course](https://youtu.be/-56x56UppqQ?si=eY0SFUeaTlOfji6B)
+
+📹 [MongoDB Crash Course 2022](https://youtu.be/2QQGWYe7IDU?si=TCekNQHm6TcSh8bo)
+
+📹 [MongoDB + Mongoose + Nodejs Crash Course](https://youtu.be/5QEwqX5U_2M?si=BrF6-Lf6UwqhOkNx)
+
+
+#### Books
+
+📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+
+📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+
+</details>
+
 ## FrontEnd basics 
 
 <details>
