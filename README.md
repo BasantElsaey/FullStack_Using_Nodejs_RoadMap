@@ -16,7 +16,7 @@ ___
 # Computer Science Basics
 
 <details>
-   <details>
+  
    <summary> Introduction to Computer Science </summary>
 
 
@@ -125,7 +125,7 @@ OR
 
    </details> 
 
- </details>
+
  
 <details>
 
