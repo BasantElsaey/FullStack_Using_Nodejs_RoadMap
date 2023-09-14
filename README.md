@@ -16,37 +16,36 @@ ___
 <details>
    <summary> Introduction to Computer Science </summary>
 
-### Introduction to Computer Science
+## Introduction to Computer Science
 
-- First of all you need to study programming lanaguage such as Python 
+### Notes :
 
-- Secondly you need to study CS50 Course
+ - First of all you need to study programming lanaguage such as Python 
+
+ - Secondly you need to study CS50 Course
   
-- Finally you need to study C++ Course
+ - Finally you need to study C++ Course
+
+  #### Python
+
+   📹 [Introduction to Computer Science and Programming Using Python from Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+
+  #### CS50
   
+   📹 [CS50's Introduction to Computer Science In English](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-📹 [Introduction to Computer Science and Programming Using Python from Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
-- CS50
-- In English
-
-📹 [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
-OR 
-
-In Arabic
-
-📹 [CS50's Introduction to Computer Science](https://youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd)
+   📹 [CS50's Introduction to Computer Science In Arabic](https://youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd)
 
 
 
-C++ Course
+  #### C++
 
-[C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+   [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
-OR
+    OR
 
-[C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+   [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 
 </details>
 
