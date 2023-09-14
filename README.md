@@ -44,9 +44,9 @@ ___
 
   #### C++
 
-   [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+  📹 [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
-   [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+  📹  [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 
 </details>
 
@@ -56,21 +56,21 @@ ___
 
 ## Data Structure for C++ and Python
 
-  [Data Structure For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
+ 📹 [Data Structure For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
   
-  [Data Structure For Python](https://youtu.be/pkYVOmU3MgA)
+ 📹 [Data Structure For Python](https://youtu.be/pkYVOmU3MgA)
 
 ## Object Oriented Programming(OOP) for C++ and Python
-
-  [OOP For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+ 
+  📹  [OOP For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
 
   ### Notes : 
   
   - You have two courses of OOP Python , you can choose one course of them
     
-  [OOP Python](https://youtu.be/A9kSngn7254)
+  📹 [OOP Python](https://youtu.be/A9kSngn7254)
     
-  [OOP Python](https://youtu.be/Ej_02ICOIgs)
+  📹 [OOP Python](https://youtu.be/Ej_02ICOIgs)
 
 </details>
 
