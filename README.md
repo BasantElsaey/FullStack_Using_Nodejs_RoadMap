@@ -125,12 +125,10 @@ OR
 
    </details> 
 
-
- 
-<details>
-
 # Front End Basics
 
+<details>
+  
    <summary>Front End Basics</summary>
    
 
