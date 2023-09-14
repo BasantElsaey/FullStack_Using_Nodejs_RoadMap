@@ -11,11 +11,12 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 📹 [Intermediate & Advanced General](#intermediate--advanced-general)
 
+___
 
 <details>
    <summary> Introduction to Computer Science </summary>
 
-### Introduction to Computer Science
+## Introduction to Computer Science
 
 - First of all you need to study programming lanaguage such as Python 
 
