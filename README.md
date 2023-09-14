@@ -63,9 +63,12 @@ ___
 ## Object Oriented Programming(OOP) for C++ and Python
 
   [OOP For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+
+  ### Notes : 
   
-  [OOP For Python](https://youtu.be/A9kSngn7254)
-    OR
+  - You have two courses of OOP Python , you can choose one course of them
+    
+  [OOP Python](https://youtu.be/A9kSngn7254)
     
   [OOP Python](https://youtu.be/Ej_02ICOIgs)
 
