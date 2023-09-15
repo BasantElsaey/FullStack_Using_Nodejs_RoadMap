@@ -99,7 +99,7 @@ OR
 
 #### Books 
 
-📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1dlLqIk3HeqfLK8j0EZhJDe3u58uFUH3O)
 
 
 
@@ -156,12 +156,22 @@ OR
   
    📹 [Angular - FreeCodeCamp](https://youtu.be/3qBXWUpoPHo)
 
+    ##### Books
+  
+   📖 [Typescript](https://drive.google.com/drive/folders/1dYqdDF4_I2agdhtGWrBbZIBVRtTHQ4ER)
+
+   📖 [Angular](https://drive.google.com/drive/folders/1dZCgm1M_T6hGyocjADWv_ex8axPY1wOl)
+
    
 ### React
 
    📹 [React - Codezon ](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
   
    📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
+
+   ##### Books
+   
+   📖 [MernStack using React & Typescript](https://drive.google.com/drive/folders/1dj12CqQ0QBpiUJMcee7OQ_d5D2W5PqFJ)
    
   
 </details>
@@ -178,11 +188,19 @@ OR
 
 📹 [Nodejs & Express](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
 
+### Books
+
+📖 [Nodejs](https://drive.google.com/drive/folders/1dwQrUkmxawVn-rPzohTUqU2219uabhJR)
+
 ## Rest-API using Postman in Nodejs
 
 📹 [What-is-Postman](https://youtu.be/VywxIQ2ZXw4?si=GgcT25pt8O7QKmJJ)
 
 📹 [Rest-API-Using-Postman](https://youtu.be/l8WPWK9mS5M?si=doepbl13Wm8wEfxT)
+
+### Books
+
+📖 [Rest-API-Using-Nodejs](https://drive.google.com/drive/folders/1dwmjgZXAaSrCpGgRfMSI58H0RCDAllyO)
 
 ## MongoDB Database
 
@@ -204,7 +222,7 @@ OR
 
 #### Books
 
-📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+📖 [MongoDB](https://drive.google.com/drive/folders/1dU-n4HS07P_bNl_ZPCOa5mwdBgKgtedx)
 
 ## Projects Using Nodejs & Express & React
 
