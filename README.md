@@ -129,10 +129,6 @@ OR
 
 <details> 
   
-<summary>Beginner Level</summary>
-  
-
-
 ## What is HTTP methods & codes?
 
 <details>
