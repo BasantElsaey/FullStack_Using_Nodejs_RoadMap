@@ -140,21 +140,21 @@ OR
    [HTTP-Status-Codes](https://youtu.be/wJa5CTIFj7U?si=7BfP_73I2M-diVkx)
   
 
-### What is Rest API?
+## What is Rest API?
 
    #### Videos 
    
   [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
   
 
-### Front End Basics
+## Front End Basics
 
 <details>
   
    <summary>Front End Basics</summary>
    
 
-   #### HTML & CSS & JavaScript & ES6
+   ### HTML & CSS & JavaScript & ES6
 
   📹 [ HTML - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
@@ -190,7 +190,7 @@ OR
 
 </details>
 
-</details>
+
 
 
 
