@@ -128,14 +128,16 @@ OR
 # Beginner_Level
 
 <details> 
+
+<summary> Beginner Level </summary>
   
-## What is HTTP methods & codes?
+### What is HTTP methods & codes?
 
 <details>
   
   <summary>HTTP methods & status codes </summary>
 
-   ### Videos 
+   #### Videos 
    
    [HTTP-Methods](https://youtu.be/iYM2zFP3Zn0?si=lSuB1NnYNd63xEa9)
    
@@ -143,27 +145,27 @@ OR
   
 </details>
 
-## What is Rest API?
+### What is Rest API?
 
 <details>
   
   <summary>Rest API & HTTP </summary>
 
-   ### Videos 
+   #### Videos 
    
   [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
   
 </details>
 
 
-## Front End Basics
+### Front End Basics
 
 <details>
   
    <summary>Front End Basics</summary>
    
 
-   ### HTML & CSS & JavaScript & ES6
+   #### HTML & CSS & JavaScript & ES6
 
   📹 [ HTML - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
