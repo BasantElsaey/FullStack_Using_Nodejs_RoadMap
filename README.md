@@ -5,11 +5,11 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 📹 [ Computer Science Basics ](#Computer-Science-Basics)
 
-📹 [Front-End Basics](#front-end-basics)
+📹 [Beginner-Level](#beginner_level)
 
-📹 [Beginner & Intermediate Web Technologies](#beginner--intermediate-web-technologies)
+📹 [ Intermediate Level](#)
 
-📹 [Intermediate & Advanced General](#intermediate--advanced-general)
+📹 [ Advanced Levels](#)
 
 ___
 
@@ -125,14 +125,49 @@ OR
 
    </details> 
 
-# Front End Basics
+# Beginner_Level
+
+<details> 
+  
+<summary>Beginner Level</summary>
+  
+
+
+## What is HTTP methods & codes?
+
+<details>
+  
+  <summary>HTTP methods & status codes </summary>
+
+   ### Videos 
+   
+   [HTTP-Methods](https://youtu.be/iYM2zFP3Zn0?si=lSuB1NnYNd63xEa9)
+   
+   [HTTP-Status-Codes](https://youtu.be/wJa5CTIFj7U?si=7BfP_73I2M-diVkx)
+  
+</details>
+
+## What is Rest API?
+
+<details>
+  
+  <summary>Rest API & HTTP </summary>
+
+   ### Videos 
+   
+  [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
+  
+</details>
+
+
+## Front End Basics
 
 <details>
   
    <summary>Front End Basics</summary>
    
 
-   ## HTML & CSS & JavaScript & ES6
+   ### HTML & CSS & JavaScript & ES6
 
   📹 [ HTML - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
@@ -145,9 +180,9 @@ OR
   📹 [ ES6 - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
 
 
-## TypeScript & Angular
+### TypeScript & Angular
 
-### Notes :
+#### Notes :
 
 - Firstly , you have to take Typescript Course
 
@@ -158,12 +193,13 @@ OR
    📹 [Angular - FreeCodeCamp](https://youtu.be/3qBXWUpoPHo)
 
    
-## React
+### React
 
    📹 [React - Codezon ](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
   
    📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
   
+</details>
 
 </details>
 
