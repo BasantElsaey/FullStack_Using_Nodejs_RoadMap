@@ -9,7 +9,7 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 📹 [ Intermediate Level](#intermediate-level)
 
-📹 [ Advanced Levels](#)
+📹 [ Advanced Level](#)
 
 ___
 
@@ -115,18 +115,15 @@ OR
 
    #### Videos 
    
-   [HTTP-Methods](https://youtu.be/iYM2zFP3Zn0?si=lSuB1NnYNd63xEa9)
+  📹 [HTTP-Methods](https://youtu.be/iYM2zFP3Zn0?si=lSuB1NnYNd63xEa9)
    
-   [HTTP-Status-Codes](https://youtu.be/wJa5CTIFj7U?si=7BfP_73I2M-diVkx)
+  📹 [HTTP-Status-Codes](https://youtu.be/wJa5CTIFj7U?si=7BfP_73I2M-diVkx)
   
 
 ## What is Rest API?
-
-   #### Videos 
    
-  [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
+ 📹 [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
   
-
 ## Front End Basics
 
 <details>
@@ -179,13 +176,13 @@ OR
 
 ## Nodejs & Express 
 
-[Nodejs & Express](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
+📹 [Nodejs & Express](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
 
 ## Rest-API using Postman in Nodejs
 
-[What-is-Postman](https://youtu.be/VywxIQ2ZXw4?si=GgcT25pt8O7QKmJJ)
+📹 [What-is-Postman](https://youtu.be/VywxIQ2ZXw4?si=GgcT25pt8O7QKmJJ)
 
-[Rest-API-Using-Postman](https://youtu.be/l8WPWK9mS5M?si=doepbl13Wm8wEfxT)
+📹 [Rest-API-Using-Postman](https://youtu.be/l8WPWK9mS5M?si=doepbl13Wm8wEfxT)
 
 ## MongoDB Database
 
@@ -211,15 +208,15 @@ OR
 
 ## Projects Using Nodejs & Express & React
 
-[4 Projects-Using-Express & Nodejs](https://youtu.be/qwfE7fSVaZM?si=2ZVf3wov_dpLxW5S)
+📹 [4 Projects-Using-Express & Nodejs](https://youtu.be/qwfE7fSVaZM?si=2ZVf3wov_dpLxW5S)
 
-[E-commerce](https://youtu.be/rMiRZ1iRC0A?si=L9UqqGLqut-5v95s)
+📹 [E-commerce](https://youtu.be/rMiRZ1iRC0A?si=L9UqqGLqut-5v95s)
 
-[Chat-App](https://youtu.be/mYy-d6BtqmU?si=YRHekU7c4593pUmK)
+📹 [Chat-App](https://youtu.be/mYy-d6BtqmU?si=YRHekU7c4593pUmK)
 
 ## Projects Using Nodejs & Express & Angular
 
-[Task-Manager](https://youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&si=PqKRNs0HDX__X4JN)
+📹 [Task-Manager](https://youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&si=PqKRNs0HDX__X4JN)
 
 </details>
 
