@@ -129,13 +129,9 @@ OR
 
 <details> 
 
-<summary> Beginner Level </summary>
+<summary> Web Basics </summary>
   
-### What is HTTP methods & codes?
-
-<details>
-  
-  <summary>HTTP methods & status codes </summary>
+## What is HTTP methods & codes?
 
    #### Videos 
    
@@ -143,20 +139,13 @@ OR
    
    [HTTP-Status-Codes](https://youtu.be/wJa5CTIFj7U?si=7BfP_73I2M-diVkx)
   
-</details>
 
 ### What is Rest API?
-
-<details>
-  
-  <summary>Rest API & HTTP </summary>
 
    #### Videos 
    
   [Rest-API & HTTP](https://youtu.be/Q-BpqyOT3a8?si=1G7FVh1IECi1DiPU)
   
-</details>
-
 
 ### Front End Basics
 
@@ -197,6 +186,8 @@ OR
   
    📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
   
+</details>
+
 </details>
 
 </details>
