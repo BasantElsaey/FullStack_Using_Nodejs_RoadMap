@@ -101,27 +101,7 @@ OR
 
 📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
 
-## MongoDB Database
 
-### Notes : 
-
- To study MongoDB course you have to study nodejs first 
-
-📹 [MongoDB Full Course 2023](https://youtu.be/8eJJe4Slnik)
-
-📹 [MongoDB Schema Design](https://youtu.be/leNCfU5SYR8?si=DyLYHKSfy5eiHvPR)
-
-OR
-
-📹 [MongoDB Crash Course](https://youtu.be/-56x56UppqQ?si=eY0SFUeaTlOfji6B)
-
-📹 [MongoDB Crash Course 2022](https://youtu.be/2QQGWYe7IDU?si=TCekNQHm6TcSh8bo)
-
-📹 [MongoDB + Mongoose + Nodejs Crash Course](https://youtu.be/5QEwqX5U_2M?si=BrF6-Lf6UwqhOkNx)
-
-#### Books
-
-📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
 
    </details> 
 
@@ -185,12 +165,63 @@ OR
    📹 [React - Codezon ](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
   
    📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
+   
   
 </details>
 
 </details>
 
 # Intermediate Level
+
+<details>
+
+<summary> The way to Nodejs and MongoDB </summary>
+
+## Nodejs & Express 
+
+[Nodejs & Express](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
+
+## Rest-API using Postman in Nodejs
+
+[What-is-Postman](https://youtu.be/VywxIQ2ZXw4?si=GgcT25pt8O7QKmJJ)
+
+[Rest-API-Using-Postman](https://youtu.be/l8WPWK9mS5M?si=doepbl13Wm8wEfxT)
+
+## MongoDB Database
+
+### Notes : 
+
+ To study MongoDB course you have to study nodejs first 
+
+📹 [MongoDB Full Course 2023](https://youtu.be/8eJJe4Slnik)
+
+📹 [MongoDB Schema Design](https://youtu.be/leNCfU5SYR8?si=DyLYHKSfy5eiHvPR)
+
+OR
+
+📹 [MongoDB Crash Course](https://youtu.be/-56x56UppqQ?si=eY0SFUeaTlOfji6B)
+
+📹 [MongoDB Crash Course 2022](https://youtu.be/2QQGWYe7IDU?si=TCekNQHm6TcSh8bo)
+
+📹 [MongoDB + Mongoose + Nodejs Crash Course](https://youtu.be/5QEwqX5U_2M?si=BrF6-Lf6UwqhOkNx)
+
+#### Books
+
+📖 [MongoDB](https://drive.google.com/drive/folders/1rgT7K-1TlX7w3fjDBLpw5Izb1HOWLP94?hl=ar)
+
+## Projects Using Nodejs & Express & React
+
+[4 Projects-Using-Express & Nodejs](https://youtu.be/qwfE7fSVaZM?si=2ZVf3wov_dpLxW5S)
+
+[E-commerce](https://youtu.be/rMiRZ1iRC0A?si=L9UqqGLqut-5v95s)
+
+[Chat-App](https://youtu.be/mYy-d6BtqmU?si=YRHekU7c4593pUmK)
+
+## Projects Using Nodejs & Express & Angular
+
+[Task-Manager](https://youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&si=PqKRNs0HDX__X4JN)
+
+</details>
 
 
 
