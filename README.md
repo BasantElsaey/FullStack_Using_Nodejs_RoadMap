@@ -24,11 +24,13 @@ ___
 
 ### Notes :
 
- - First of all you need to study programming lanaguage such as Python 
+ #### You choose only one of Basics :
 
- - Secondly you need to study CS50 Course
-  
- - Finally you need to study C++ Course
+ - Python
+   OR
+ - CS50
+   OR
+ - C++ 
 
   #### Python
 
