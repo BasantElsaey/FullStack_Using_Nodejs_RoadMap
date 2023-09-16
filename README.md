@@ -162,10 +162,14 @@ OR
 - Firstly , you have to take Typescript Course
 
 - Secondly , you have to take Angular Course
-  
+
+  #### Typescript
+   
    📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
 
-  ---------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------
+
+  #### Angular Courses
   
    📹 [Angular - FreeCodeCamp In English](https://youtu.be/3qBXWUpoPHo)
 
