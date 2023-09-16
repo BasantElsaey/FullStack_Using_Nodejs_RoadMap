@@ -22,7 +22,7 @@ ___
 
 ## Introduction to Computer Science
 
-### Notes :
+### Note :
 
  #### You choose only one of Basics :
 
