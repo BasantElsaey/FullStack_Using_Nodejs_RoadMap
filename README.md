@@ -57,12 +57,23 @@ ___
 
 ## Data Structure for C++ and Python
 
+### Notes : 
+   When you choose C++ language , you choose data structure C++ 
+   
+   When you choose python language , you choose data structure python 
+   
+
  📹 [Data Structure For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
   
  📹 [Data Structure For Python](https://youtu.be/pkYVOmU3MgA)
 
 ## Object Oriented Programming(OOP) for C++ and Python
- 
+
+### Notes : 
+   When you choose C++ language , you choose OOP C++ 
+   
+   When you choose python language , you choose OOP python 
+   
   📹  [OOP For C++](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
 
   ### Notes : 
@@ -153,8 +164,16 @@ OR
 - Secondly , you have to take Angular Course
   
    📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+
+  ---------------------------------------------------------------------------------------------
   
-   📹 [Angular - FreeCodeCamp](https://youtu.be/3qBXWUpoPHo)
+   📹 [Angular - FreeCodeCamp In English](https://youtu.be/3qBXWUpoPHo)
+
+   OR
+ 
+   📹 [Angular - In Arabic](https://youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&si=wir3bvp4MDKw6VEV)
+  
+   📹 [Angular - ITI In Arabic](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
 
     ##### Books
   
@@ -186,7 +205,13 @@ OR
 
 ## Nodejs & Express 
 
-📹 [Nodejs & Express](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
+📹 [Nodejs & Express In English](https://youtu.be/Oe421EPjeBE?si=b8zoaA-QsJRTYPpz)
+
+OR 
+
+📹 [Nodejs & Express In Arabic](https://youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub&si=hloSzyi7dhE-nLl_)
+
+📹 [Nodejs & Express In Arabic](https://youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp&si=mXzdL6n1pLAxI6Dh)
 
 ### Books
 
