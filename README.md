@@ -45,6 +45,8 @@ ___
 
    📹 [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
+    OR
+
    📹  [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 
 </details>
