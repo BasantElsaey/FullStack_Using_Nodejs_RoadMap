@@ -27,9 +27,13 @@ ___
  #### You choose only one of Basics :
 
  - Python
+   
    OR
+   
  - CS50
+   
    OR
+   
  - C++ 
 
   #### Python
