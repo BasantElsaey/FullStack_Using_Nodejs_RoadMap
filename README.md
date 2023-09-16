@@ -36,7 +36,7 @@ ___
    
  - C++
 
-   #### CS50
+  #### CS50
   
    📹 [CS50's Introduction to Computer Science In English](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
