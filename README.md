@@ -43,9 +43,9 @@ ___
    
  - C++
 
-  📹 [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
+   📹 [C++ In Arabic](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)
 
-  📹  [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+   📹  [C++ In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
 
 </details>
 
