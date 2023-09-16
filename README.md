@@ -146,7 +146,7 @@ OR
 
    #### Note :
    
-    - ES6 is ECMA Script (Modern JavaScript)
+   ES6 is ECMA Script (Modern JavaScript)
 
   📹 [ HTML - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
