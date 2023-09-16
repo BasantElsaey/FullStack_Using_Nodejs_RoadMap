@@ -116,6 +116,8 @@ OR
 
    </details> 
 
+   ___
+
 # Beginner_Level
 
 <details> 
@@ -204,6 +206,8 @@ OR
 </details>
 
 </details>
+
+___
 
 # Intermediate Level
 
