@@ -144,6 +144,10 @@ OR
 
    ### HTML & CSS & JavaScript & ES6
 
+   #### Note :
+   
+    - ES6 is ECMA Script (Modern JavaScript)
+
   📹 [ HTML - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
   📹 [ CSS - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
@@ -177,7 +181,7 @@ OR
  
    📹 [Angular - In Arabic](https://youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&si=wir3bvp4MDKw6VEV)
   
-   📹 [Angular - ITI In Arabic](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
+   📹 [Angular - ITI](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
 
     ##### Books
   
@@ -217,6 +221,8 @@ OR
 
 📹 [Nodejs & Express In Arabic](https://youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp&si=mXzdL6n1pLAxI6Dh)
 
+📹 [Nodejs & Express ITI ](https://youtube.com/playlist?list=PLesfn4TAj57X2dgSLhv75FnAxWb84ohyO&si=lnP0r8cKUa6lEzOr)
+
 ### Books
 
 📖 [Nodejs](https://drive.google.com/drive/folders/1dwQrUkmxawVn-rPzohTUqU2219uabhJR)
@@ -248,6 +254,12 @@ OR
 📹 [MongoDB Crash Course 2022](https://youtu.be/2QQGWYe7IDU?si=TCekNQHm6TcSh8bo)
 
 📹 [MongoDB + Mongoose + Nodejs Crash Course](https://youtu.be/5QEwqX5U_2M?si=BrF6-Lf6UwqhOkNx)
+
+OR
+
+📹 [MongoDB In Arabic](https://youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5&si=24YQuLZVIX_Ax620)
+
+📹 [MongoDB ITI ](https://youtube.com/playlist?list=PLesfn4TAj57XGGSmVzzpxY69-lha1EWEI&si=Nvfo_96xAPwi3VEp)
 
 #### Books
 
