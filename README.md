@@ -93,6 +93,10 @@ ___
   
 ## SQL Databases
 
+### Notes : 
+
+If you want the video translated, open the subtitle CC 
+
 📹 [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 📹 [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
