@@ -26,27 +26,27 @@ ___
 
  #### You choose only one of Basics :
 
- - Python
-   
-   OR
-   
  - CS50
    
    OR
    
- - C++ 
+ - Python
+   
+   OR
+   
+ - C++
 
-  #### Python
-
-   📹 [Introduction to Computer Science and Programming Using Python from Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-
-  #### CS50
+   #### CS50
   
    📹 [CS50's Introduction to Computer Science In English](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
    📹 [CS50's Introduction to Computer Science In Arabic](https://youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd)
 
+
+  #### Python
+
+   📹 [Introduction to Computer Science and Programming Using Python from Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
 
   #### C++
