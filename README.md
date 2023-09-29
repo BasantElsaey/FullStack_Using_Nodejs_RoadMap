@@ -194,7 +194,7 @@ OR
 
   📹[JavaScript-ES6-DOCS](https://www.w3schools.com/js/js_es6.asp)
   
-
+___
 
 ### TypeScript & Angular
 
@@ -207,8 +207,6 @@ OR
   ### Typescript
    
    📹 [Typescript - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
-
-  ------------------------------------------------------------------------------------
 
   ### Angular Courses
   
@@ -232,7 +230,7 @@ OR
 
      📹 [Angular-DOCS](https://angular.io/docs)
    
-
+___
    
 ### React
 
