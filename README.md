@@ -168,27 +168,27 @@ OR
 
   📹 [ ES6 - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
 
-  ##### Books
+  #### Books
   
   📖 [JavaScript](https://drive.google.com/drive/folders/1iJkuO7kG9SwYGOViLkw0sMq0Mex8LnbW)
   
   📖 [JavaScript-ES6](https://drive.google.com/drive/folders/1IL0NBGgPA8YyHGZhv4H4U2K_NCxO62lU?hl=ar)
   
-  ##### Documentations 
+  #### Documentations 
   
-  ###### HTML 
+  ##### HTML 
   
   📹[HTML-DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
   
   📹[HTML-DOCS](https://www.w3schools.com/html/html_intro.asp)
   
-  ###### CSS
+  ##### CSS
   
   📹[CSS-DOCS](https://www.w3schools.com/cssref/index.php)
   
   📹[CSS-DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-  ###### JavaScript & ES6
+  ##### JavaScript & ES6
   
   📹[JavaScript-DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -220,13 +220,13 @@ OR
   
     📹 [Angular - ITI](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
 
-    ##### Books
+    #### Books
   
      📖 [Typescript](https://drive.google.com/drive/folders/1dYqdDF4_I2agdhtGWrBbZIBVRtTHQ4ER)
 
      📖 [Angular](https://drive.google.com/drive/folders/1dZCgm1M_T6hGyocjADWv_ex8axPY1wOl)
   
-    ##### Documentations
+    #### Documentations
   
      📹 [Typescript-DOCS](https://www.typescriptlang.org/docs/)
 
@@ -240,11 +240,11 @@ OR
   
    📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
 
-   ##### Books
+   #### Books
    
    📖 [MernStack using React & Typescript](https://drive.google.com/drive/folders/1dj12CqQ0QBpiUJMcee7OQ_d5D2W5PqFJ)
 
-   ##### Documentations
+   #### Documentations
 
    📹 [React-DOCS](https://legacy.reactjs.org/docs/getting-started.html)
    
