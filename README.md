@@ -176,19 +176,19 @@ OR
   
   #### Documentations 
   
-  ##### HTML 
+  #### HTML 
   
   📹[HTML-DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
   
   📹[HTML-DOCS](https://www.w3schools.com/html/html_intro.asp)
   
-  ##### CSS
+  #### CSS
   
   📹[CSS-DOCS](https://www.w3schools.com/cssref/index.php)
   
   📹[CSS-DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-  ##### JavaScript & ES6
+  #### JavaScript & ES6
   
   📹[JavaScript-DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
