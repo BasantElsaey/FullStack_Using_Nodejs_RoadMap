@@ -232,17 +232,17 @@ ___
    
 ___
    
-### React
+  ### React
 
-    📹 [React - Codezon ](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
+    📹 [React - Codezon](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
   
     📹 [React- FreeCodeCamp](https://youtu.be/u6gSSpfsoOQ)
 
-### Books
+  ### Books
    
     📖 [MernStack using React & Typescript](https://drive.google.com/drive/folders/1dj12CqQ0QBpiUJMcee7OQ_d5D2W5PqFJ)
 
-### Documentations
+  ### Documentations
 
     📹 [React-DOCS](https://legacy.reactjs.org/docs/getting-started.html)
    
