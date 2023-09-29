@@ -168,6 +168,33 @@ OR
 
   📹 [ ES6 - Elzero ](https://youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
 
+  ##### Books
+  
+  📖 [JavaScript](https://drive.google.com/drive/folders/1iJkuO7kG9SwYGOViLkw0sMq0Mex8LnbW)
+  
+  📖 [JavaScript-ES6](https://drive.google.com/drive/folders/1IL0NBGgPA8YyHGZhv4H4U2K_NCxO62lU?hl=ar)
+  
+  ##### Documentations 
+  
+  ###### HTML 
+  
+  📹[HTML-DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  
+  📹[HTML-DOCS](https://www.w3schools.com/html/html_intro.asp)
+  
+  ###### CSS
+  
+  📹[CSS-DOCS](https://www.w3schools.com/cssref/index.php)
+  
+  📹[CSS-DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+  ###### JavaScript & ES6
+  
+  📹[JavaScript-DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+  📹[JavaScript-ES6-DOCS](https://www.w3schools.com/js/js_es6.asp)
+  
+
 
 ### TypeScript & Angular
 
@@ -185,19 +212,26 @@ OR
 
   ### Angular Courses
   
-   📹 [Angular - FreeCodeCamp In English](https://youtu.be/3qBXWUpoPHo)
+    📹 [Angular - FreeCodeCamp In English](https://youtu.be/3qBXWUpoPHo)
 
-   OR
- 
-   📹 [Angular - In Arabic](https://youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&si=wir3bvp4MDKw6VEV)
+    OR
   
-   📹 [Angular - ITI](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
+    📹 [Angular - In Arabic](https://youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&si=wir3bvp4MDKw6VEV)
+  
+    📹 [Angular - ITI](https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&si=64jVdgkS0sXaXa47)
 
     ##### Books
   
-   📖 [Typescript](https://drive.google.com/drive/folders/1dYqdDF4_I2agdhtGWrBbZIBVRtTHQ4ER)
+     📖 [Typescript](https://drive.google.com/drive/folders/1dYqdDF4_I2agdhtGWrBbZIBVRtTHQ4ER)
 
-   📖 [Angular](https://drive.google.com/drive/folders/1dZCgm1M_T6hGyocjADWv_ex8axPY1wOl)
+     📖 [Angular](https://drive.google.com/drive/folders/1dZCgm1M_T6hGyocjADWv_ex8axPY1wOl)
+  
+    ##### Documentations
+  
+     📹 [Typescript-DOCS](https://www.typescriptlang.org/docs/)
+
+     📹 [Angular-DOCS](https://angular.io/docs)
+   
 
    
 ### React
@@ -209,6 +243,10 @@ OR
    ##### Books
    
    📖 [MernStack using React & Typescript](https://drive.google.com/drive/folders/1dj12CqQ0QBpiUJMcee7OQ_d5D2W5PqFJ)
+
+   ##### Documentations
+
+   📹 [React-DOCS](https://legacy.reactjs.org/docs/getting-started.html)
    
   
 </details>
@@ -238,6 +276,12 @@ OR
 ### Books
 
 📖 [Nodejs](https://drive.google.com/drive/folders/1dwQrUkmxawVn-rPzohTUqU2219uabhJR)
+
+### Documentations
+
+📹 [Nodejs-DOCS](https://nodejs.org/en/docs)
+
+📹 [Express-DOCS](https://expressjs.com/)
 
 ## Rest-API using Postman in Nodejs
 
@@ -277,9 +321,15 @@ OR
 
 📖 [MongoDB](https://drive.google.com/drive/folders/1dU-n4HS07P_bNl_ZPCOa5mwdBgKgtedx)
 
-## Projects Using Nodejs & Express & React
+#### Documentations 
+
+📖 [MongoDB-DOCS](https://www.mongodb.com/docs/)
+
+## Projects Using Nodejs & Express 
 
 📹 [4 Projects-Using-Express & Nodejs](https://youtu.be/qwfE7fSVaZM?si=2ZVf3wov_dpLxW5S)
+
+## Projects Using Nodejs & Express & React
 
 📹 [E-commerce](https://youtu.be/rMiRZ1iRC0A?si=L9UqqGLqut-5v95s)
 
