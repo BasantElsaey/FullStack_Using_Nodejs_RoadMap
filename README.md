@@ -116,6 +116,8 @@ OR
 
 #### Books 
 
+📖 [Funamentals-of-Database-Systems](https://drive.google.com/drive/folders/1nuqGIebBFfMEU1mcs0euSf4UKu8zY9yR?hl=ar)
+
 📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1dlLqIk3HeqfLK8j0EZhJDe3u58uFUH3O)
 
 
