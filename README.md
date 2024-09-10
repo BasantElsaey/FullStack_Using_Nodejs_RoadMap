@@ -378,6 +378,8 @@ ___
 </details>
 
 </details>
+
+</details>
 ___
 
 ## JavaScript Challenges 
@@ -410,11 +412,17 @@ ___
 
 ## Free Frontend Templates
 
+<details>
+
+<summary>Free Frontend Templates</summary>
+
 🔗[Free - Frontend - Templates](https://templatemo.com/)
 
 🔗[Free - Frontend - Templates](https://themewagon.com/theme-price/free/)
 
 🔗[Free - Frontend - Templates](https://themefisher.com/free-bootstrap-templates)
+
+</details>
 
 </details>
 
