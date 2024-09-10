@@ -365,8 +365,6 @@ ___
 
 # Interview Questions
 
-</details>
-
 <details>
 
 <summary>Interview Questions</summary>
