@@ -116,9 +116,9 @@ OR
 
 #### Books 
 
-📖 [Funamentals-of-Database-Systems](https://drive.google.com/drive/folders/1nuqGIebBFfMEU1mcs0euSf4UKu8zY9yR?hl=ar)
+📖 [Funamentals-of-Database-Systems](https://drive.google.com/file/d/1pbOLCvwbPxGIUElK6nIiNZwoUUI6Uo6U/view?usp=sharing)
 
-📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/drive/folders/1dlLqIk3HeqfLK8j0EZhJDe3u58uFUH3O)
+📖 [Pro-SqL-Server-Relational-Database-Design-and-Implementation](https://drive.google.com/file/d/1t0efww6g_S3eARVPtYSK5y_Gs1RtyOBp/view?usp=sharing)
 
 
 
@@ -172,9 +172,13 @@ OR
 
   ### Books
   
-  📖 [JavaScript](https://drive.google.com/drive/folders/1iJkuO7kG9SwYGOViLkw0sMq0Mex8LnbW)
+  📖 [JavaScript - You Don't Know JavaScript](https://drive.google.com/file/d/1qnKyYBjReI1Wi7JdTLl1WBQLM3ldFUQc/view?usp=sharing)
+
+  📖 [JavaScript - notes Professional](https://drive.google.com/file/d/1qr6Ibr6piTpnbCL9RZqFpRa0o7FOPvh6/view?usp=sharing)
   
-  📖 [JavaScript-ES6](https://drive.google.com/drive/folders/1IL0NBGgPA8YyHGZhv4H4U2K_NCxO62lU?hl=ar)
+  📖 [JavaScript - ES6](https://drive.google.com/file/d/1pIxZoP7gioFeuj3WMB8aPRkV2LIiAP-6/view?usp=sharing)
+  
+  📖 [JavaScript-ES6 - TutorialsPoint](  https://drive.google.com/file/d/1p85ts7bUecB_LerMLD0iZeZFLkVsXd88/view?usp=sharing)
   
   ### Documentations 
   
@@ -222,9 +226,9 @@ ___
 
     ### Books
   
-     📖 [Typescript](https://drive.google.com/drive/folders/1dYqdDF4_I2agdhtGWrBbZIBVRtTHQ4ER)
+     📖 [Typescript](https://drive.google.com/file/d/1t2Nix7dJA5hrDKo6CkAE3L2PlVMf5CHY/view?usp=sharing)
 
-     📖 [Angular](https://drive.google.com/drive/folders/1dZCgm1M_T6hGyocjADWv_ex8axPY1wOl)
+     📖 [Angular](https://drive.google.com/file/d/1oyDQKIFgxj1RGenDgOwyYzsDSs8DuvVy/view?usp=sharing)
   
     ### Documentations
   
@@ -242,7 +246,10 @@ ___
 
    ### Books
    
-  📖 [MernStack using React & Typescript](https://drive.google.com/drive/folders/1dj12CqQ0QBpiUJMcee7OQ_d5D2W5PqFJ)
+  📖 [React - React Native](https://drive.google.com/file/d/1s61fIoquj6VVi5rmI7TyIXiESiv-K4XV/view?usp=sharing)
+
+  📖 [MernStack using React & Typescript](https://drive.google.com/file/d/1rMbFjoKUMvisP4p6_He3hHV2TyAjRaol/view?usp=sharing)
+
 
    ### Documentations
 
@@ -275,7 +282,10 @@ OR
 
 ### Books
 
-📖 [Nodejs](https://drive.google.com/drive/folders/1dwQrUkmxawVn-rPzohTUqU2219uabhJR)
+📖 [Nodejs - Design Patterns](https://drive.google.com/file/d/1ry4eTZ9ffzyRbSxfWN6TF0l1Kou09SwX/view?usp=sharing)
+
+📖 [Nodejs - Novice To Ninja](https://drive.google.com/file/d/1s-i6eMg03gCBCOLa_NoFL12JwZIUTmXY/view?usp=sharing)
+
 
 ### Documentations
 
@@ -291,7 +301,7 @@ OR
 
 ### Books
 
-📖 [Rest-API-Using-Nodejs](https://drive.google.com/drive/folders/1dwmjgZXAaSrCpGgRfMSI58H0RCDAllyO)
+📖 [Rest-API-Using-Nodejs](https://drive.google.com/file/d/1sOg-fENtnficsAcBgk0-_Cm5Ku9SMIWo/view?usp=sharing)
 
 ## MongoDB Database
 
@@ -319,7 +329,10 @@ OR
 
 ### Books
 
-📖 [MongoDB](https://drive.google.com/drive/folders/1dU-n4HS07P_bNl_ZPCOa5mwdBgKgtedx)
+📖 [MongoDB - Notes Professionals](https://drive.google.com/file/d/1rStoYYyy5kZvCxomNq2yOS5INyDv4Ogf/view?usp=sharing)
+
+📖 [MongoDB - Fundamentals](https://drive.google.com/file/d/1r_9fgap2zwErGb7Oj1cd3EqEjSk5K0Pj/view?usp=sharing)
+
 
 ### Documentations 
 
