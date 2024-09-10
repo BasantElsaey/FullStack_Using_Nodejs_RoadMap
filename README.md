@@ -378,9 +378,15 @@ ___
 🔗 [Nodejs - Interview - Questions](https://www.turing.com/interview-questions/node-js)
 
 </details>
+
+</details>
 ___
 
 ## JavaScript Challenges 
+
+<details>
+
+<summary>JavaScript Challenges</summary>
 
 🔗[JavaScript - Exercism - Challenges](https://exercism.org/tracks/javascript)
 
@@ -397,6 +403,10 @@ ___
 🔗[JavaScript - Leetcode 30 Days - Challenges](https://leetcode.com/studyplan/30-days-of-javascript/)
 
 📽️[JavaScript - Explanation Leetcode 30 Days In English - Challenges](https://youtube.com/playlist?list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz&si=cB7WqdrH589BC4jg)
+
+</details>
+
+</details>
 
 ___
 
