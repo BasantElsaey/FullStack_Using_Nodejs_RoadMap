@@ -259,6 +259,8 @@ ___
    ### Documentations
 
   📹 [React-DOCS](https://legacy.reactjs.org/docs/getting-started.html)
+
+</details>
      
 ___
 
