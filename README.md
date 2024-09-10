@@ -251,7 +251,7 @@ ___
    
   📖 [React - React Native](https://drive.google.com/file/d/1s61fIoquj6VVi5rmI7TyIXiESiv-K4XV/view?usp=sharing)
 
-  📖 [React - 2024]()
+  📖 [React - 2024](https://drive.google.com/file/d/1xPFIWJLyB5YSvtC98D4tTjfktpkAMn3f/view?usp=sharing)
 
   📖 [MernStack using React & Typescript](https://drive.google.com/file/d/1rMbFjoKUMvisP4p6_He3hHV2TyAjRaol/view?usp=sharing)
 
@@ -357,9 +357,12 @@ OR
 
 📹 [Task-Manager](https://youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&si=PqKRNs0HDX__X4JN)
 
+</details>
 ___
 
 # interview-questions
+
+</details>
 
 🔗 [Nodejs - Interview - Questions](https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions)
 
