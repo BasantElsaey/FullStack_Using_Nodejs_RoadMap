@@ -11,7 +11,7 @@ In this repository , you'll find FullStack Using Nodejs road map , This reposito
 
 🔗 [ Advanced Level](#)
 
-🔗 [Interview Questions - CV Templates](#interview-questions-cv-templates)
+🔗 [Interview Preparation](#interview-preparation)
 
 
 ___
@@ -363,7 +363,7 @@ OR
 
 ___
 
-# Interview Questions - CV Templates
+# Interview Preparation
 
 <details>
 
