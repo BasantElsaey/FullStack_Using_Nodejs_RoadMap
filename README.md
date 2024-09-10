@@ -357,22 +357,18 @@ OR
 
 📹 [Task-Manager](https://youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd&si=PqKRNs0HDX__X4JN)
 
-___
-
 </details>
-
+___
 
 # interview-questions
 
-<details>
+</details>
 
 🔗 [Nodejs - Interview - Questions](https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions)
 
 🔗 [Nodejs - Interview - Questions](https://www.geeksforgeeks.org/node-interview-questions-and-answers/)
 
 🔗 [Nodejs - Interview - Questions](https://www.turing.com/interview-questions/node-js)
-
-</details>
 
 ___
 
