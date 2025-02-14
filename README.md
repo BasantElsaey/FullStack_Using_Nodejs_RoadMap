@@ -373,10 +373,15 @@ OR
     
   - NestJS is a modern framework for developing backend applications using TypeScript (or JavaScript). It is based on Node.js, and uses a Modular Architecture similar to Angular, with strong 
     support for Dependency Injection and SOLID design.Use NestJS if you:
+    
   ✔️ You are working on a large project that needs strong organization.
+
   ✔️ You need Dependency Injection like Angular.
+  
   ✔️ You want to use GraphQL easily.
+  
   ✔️ Need integrated support for WebSockets, Microservices.
+  
   ✔️ Want to improve your testing with Jest
 
   📹[What is NestJs & Why should we learn?](https://youtube.com/shorts/-s3F4pZWBKw?si=no0UDX_ZC-9N6h_y)
@@ -413,7 +418,7 @@ OR
 
    ### Projects in NestJs
   
-     ✔️ Notes : 
+   #### Notes : 
      
      - You'll see more advanced topics like docker , microservies and more , don't worry and wait for advanced level to understand these topics better.
     
