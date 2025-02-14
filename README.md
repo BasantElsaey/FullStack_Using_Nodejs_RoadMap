@@ -361,6 +361,69 @@ OR
 
 </details>
 
+<details>
+  
+  <summary>The way to NestJS Framework</summary>
+
+  ## NestJs 
+  
+  ### Notes 
+  
+  - You have to take Typescript and Angular Courses to be able to study Nestjs
+    
+  - NestJS is a modern framework for developing backend applications using TypeScript (or JavaScript). It is based on Node.js, and uses a Modular Architecture similar to Angular, with strong 
+    support for Dependency Injection and SOLID design.Use NestJS if you:
+  ✔️ You are working on a large project that needs strong organization.
+  ✔️ You need Dependency Injection like Angular.
+  ✔️ You want to use GraphQL easily.
+  ✔️ Need integrated support for WebSockets, Microservices.
+  ✔️ Want to improve your testing with Jest
+
+  📹[What is NestJs & Why should we learn?](https://youtube.com/shorts/-s3F4pZWBKw?si=no0UDX_ZC-9N6h_y)
+  
+  📹[What is NestJs & Why should we learn?](https://youtube.com/shorts/4czy5p01r0Q?si=jHIqublbJZDzxnMR)
+
+  📹[NestJs - In Arabic](https://youtube.com/playlist?list=PLOldSEMXUdZsFAEJwxYkE83dhm1ZkWEOL&si=_w6pk9MHli6LCLkF)
+
+  📹[NestJs - In English](https://youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2&si=yN8jLKNGIpkUZd4O)
+
+  📹[NestJs - SOLID Principles](https://youtu.be/vE74gnv4VlY?si=TBeSFZ1p-ut4RN1U)
+
+  ### Documentations 
+  
+  📖[NestJs - DOCS](https://docs.nestjs.com/)
+  
+  📖[Sequelize - DOCS](https://sequelize.org/docs/v6/)
+  
+  📖[Sequelize Migrations - DOCS](https://victoronwuzor.medium.com/how-to-setup-sequelize-migration-in-a-nestjs-project-b4aec1f88612)
+
+  ### Books 
+
+  📖[NestJs - E-book](https://drive.google.com/file/d/1mnW4_wQMxKAP16iYx6tUYKOJhJ7owwyf/view?usp=drivesdk)
+
+  ## Connection to SQL databases - TypeORM 
+  
+   📹[PostgreSQL - TypeORM](https://youtu.be/SkDHvfyXdsQ?si=z4ii0rXnD-TVYxeP)
+   
+   📹[MySQL - TypeORM](https://youtu.be/W1gvIw0GNl8?si=K5wRD_UFiL0IwWov)
+   
+   📹[GraphQL - TypeORM in English](https://youtu.be/CSfZmyzQAG8?si=HLNOvnbczROg2CUk)
+   
+   📹[GraphQL - TypeORM in Arabic](https://youtu.be/cxz-OXVk4yk?si=DqKc8tR0qqpoh0rS)
+
+   ### Projects in NestJs
+  
+     ✔️ Notes : 
+     
+     - You'll see more advanced topics like docker , microservies and more , don't worry and wait for advanced level to understand these topics better.
+    
+   📹[E-Commerce - Project](https://youtube.com/playlist?list=PLOldSEMXUdZvXCqtuVvjkmnqaiR6WyDSf&si=ZqP000Sj5Tk1h2sZ)
+
+   📹[Blog - Project](https://youtube.com/playlist?list=PLVfq1luIZbSmJIuw_EZVP9mFiMED5fGIn&si=h1RGm_m1yvgI-Gmq)
+
+  
+</details>
+
 ___
 
 # Interview Preparation
