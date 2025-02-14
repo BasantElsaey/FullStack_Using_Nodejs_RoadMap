@@ -363,7 +363,7 @@ OR
 
 <details>
   
-  <summary>The way to NestJS Framework</summary>
+  <summary>The way to NestJS Framework and Connection to SQL Databases</summary>
 
   ## NestJs 
   
@@ -402,6 +402,8 @@ OR
   
   📖[Sequelize Migrations - DOCS](https://victoronwuzor.medium.com/how-to-setup-sequelize-migration-in-a-nestjs-project-b4aec1f88612)
 
+  📖[GraphQL - DOCS](https://graphql.org/learn/)
+
   ### Books 
 
   📖[NestJs - E-book](https://drive.google.com/file/d/1mnW4_wQMxKAP16iYx6tUYKOJhJ7owwyf/view?usp=drivesdk)
@@ -416,7 +418,7 @@ OR
    
    📹[GraphQL - TypeORM in Arabic](https://youtu.be/cxz-OXVk4yk?si=DqKc8tR0qqpoh0rS)
 
-   ### Projects in NestJs
+  ### Projects in NestJs
   
    #### Notes : 
      
