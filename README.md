@@ -420,9 +420,9 @@ OR
 
   ## Projects in NestJs
   
-   ### Notes : 
+  ### Notes : 
      
-     - You'll see more advanced topics like docker , microservies and more , don't worry and wait for advanced level to understand these topics better.
+   - You'll see more advanced topics like docker , microservies and more , don't worry and wait for advanced level to understand these topics better.
     
    📹[E-Commerce - Project](https://youtube.com/playlist?list=PLOldSEMXUdZvXCqtuVvjkmnqaiR6WyDSf&si=ZqP000Sj5Tk1h2sZ)
 
