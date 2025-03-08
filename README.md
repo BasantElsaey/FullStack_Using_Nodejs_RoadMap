@@ -424,7 +424,7 @@ OR
      
    - You'll see more advanced topics like docker , microservies and more , don't worry and wait for advanced level to understand these topics better.
     
-   📹[E-Commerce - Project](https://youtube.com/playlist?list=PLOldSEMXUdZvXCqtuVvjkmnqaiR6WyDSf&si=ZqP000Sj5Tk1h2sZ)
+   📹[E-Commerce - Project](https://www.youtube.com/watch?v=LOkIwgDp3yk&list=PLOldSEMXUdZvXCqtuVvjkmnqaiR6WyDSf)
 
    📹[Blog - Project](https://youtube.com/playlist?list=PLVfq1luIZbSmJIuw_EZVP9mFiMED5fGIn&si=h1RGm_m1yvgI-Gmq)
 
